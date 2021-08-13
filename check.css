@@ -105,6 +105,19 @@ color:bisque;
     justify-content: center;
     align-items: center;
     }
+    .button { 
+      box-sizing: border-box;
+     background-color: rgb(14, 12, 12);
+     border: none;
+     color: white;
+     padding: 15px 32px;
+     text-align: center;
+     text-decoration: none;
+    
+     font-size: 16px;
+   float:right;
+     cursor: pointer;
+   }
   
   @media only screen and (max-width: 800px) {
    
